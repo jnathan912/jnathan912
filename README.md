@@ -7,6 +7,9 @@
 
 - <b>SQL Project</b>
   - [SQL-Based Investigation of Suspicious Logins and Security Updates](https://github.com/jnathan912/SQL-queries)
+ 
+- <b>Linux Project</b>
+  - [Managing File Permissions and Compliance in a Linux Environment](https://github.com/jnathan912/file-permissions-in-linux)
 
 <h2> 🤳 Connect with me:</h2>
 
