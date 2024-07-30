@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jnathan912/Azure-SOC)
 
 - <b>SQL Project</b>
-  - [Apply filters to SQL queries](https://github.com/jnathan912/SQL-queries)
+  - [SQL-Based Investigation of Suspicious Logins and Security Updates](https://github.com/jnathan912/SQL-queries)
 
 <h2> 🤳 Connect with me:</h2>
 
