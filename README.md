@@ -5,6 +5,9 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/jnathan912/Azure-SOC)
 
+- <b>SQL Project</b>
+  - [Apply filters to SQL queries](https://github.com/jnathan912/SQL-queries)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JeffNathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
