@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/jnathan912/Azure-SOC)
+  - [Azure Security Operations Lab](https://github.com/jnathan912/Azure-SOC)
 
 - <b>SQL Project</b>
   - [SQL-Based Investigation of Suspicious Logins and Security Updates](https://github.com/jnathan912/SQL-queries)
