@@ -10,6 +10,10 @@
  
 - <b>Linux Project</b>
   - [Managing File Permissions and Compliance in a Linux Environment](https://github.com/jnathan912/file-permissions-in-linux)
+ 
+  <b>Vulnerability Management Project</b>
+  - [Vulnerability Management Lab with Tenable](https://github.com/jnathan912/Vulnerability-Management)
+  - [Security Vulnerability Assessment Report](https://github.com/jnathan912/Vulnerability-Management)
 
 <h2> 🤳 Connect with me:</h2>
 
