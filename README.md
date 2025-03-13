@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeff! Cybersecurity Analyst Professional</h1>
+<h1>Hi, I'm Jeff! Cybersecurity Analyst Professional.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
