@@ -13,7 +13,6 @@
  
 - <b>Vulnerability Assessment Projects</b>
   - [Vulnerability Assessment Lab with Tenable Nessus](https://github.com/jnathan912/Vulnerability-Management)
-  - [Vulnerability Assessment Report](https://github.com/jnathan912/Assessment-Report)
 
 <h2> 🤳 Connect with me:</h2>
 
